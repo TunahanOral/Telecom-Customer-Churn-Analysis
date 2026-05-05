@@ -1,4 +1,6 @@
 📊 Telecom Customer Churn Analysis & Executive Dashboard
+
+
 📌 Project Overview
 This project provides an end-to-end data analysis of customer churn in a telecommunications company. The main objective is to understand the core reasons behind customer attrition, identify the most vulnerable customer segments, and calculate the exact financial impact (revenue loss) caused by churn.
 
@@ -39,7 +41,7 @@ The Fiber Optic Trap: Interestingly, despite typically being a premium service, 
 Competitor Impact: A major portion of the customer base is being lost directly to competitors, highlighting the need for immediate counter-offers and retention campaigns.
 
 📸 Dashboard Preview
-![Dashboard](churn_analysis_dashboard.png))
+![Dashboard](churn_analysis_dashboard.PNG))
 
 
 
