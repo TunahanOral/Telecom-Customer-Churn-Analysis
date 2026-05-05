@@ -41,7 +41,7 @@ The Fiber Optic Trap: Interestingly, despite typically being a premium service, 
 Competitor Impact: A major portion of the customer base is being lost directly to competitors, highlighting the need for immediate counter-offers and retention campaigns.
 
 📸 Dashboard Preview
-![Dashboard](churn_analysis_dashboard.PNG))
+![Dashboard](churn_analysis_dashboard.PNG)
 
 
 
